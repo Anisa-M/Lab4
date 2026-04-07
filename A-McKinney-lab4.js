@@ -7,7 +7,7 @@
     document.querySelector(".text-4xl.font-bold.mb-4.text-white.relative.z-20").innerHTML = "Uplift Your Brand with Stellar Marketing"; 
   //  headLine = "Uplift Your Brand with Stellar Marketing"; 
   // 1b. Change the line of text below the main headline
-    const underText = document.querySelector(".text-xl.mb-6.text-white.relative.z-20").innerHTML = "Utilize cutting-edge strategies from Stellar Marketing to help your business<strong> thrive </strong> and <strong> excel. </strong>";
+    const underText = document.querySelector(".text-xl.mb-6.text-white.relative.z-20").innerHTML = "Utilize cutting-edge strategies from Stellar Marketing to help your business<strong><em> thrive </em></strong> and <strong> excel. </strong>";
   // 1c. Change the background image 
     const backImage = document.querySelector(".text-xl.font-semibold.mb-2")
     element.style.backImage = "https://picsum.photos/id/683/1280/720"; 
