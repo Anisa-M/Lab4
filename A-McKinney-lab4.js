@@ -11,8 +11,8 @@
   // 1c. Change the background image 
     document.getElementById("hero").style.backgroundImage = "url('https://picsum.photos/id/683/1280/720')"; 
   // 1d. Remove "get started"
-   //!!!!!!!!!! const removeGetStarted = document.querySelector(".relative.bg-blue-600");
-   //!!!!!!!!!!! removeGetStarted.remove(); 
+    const removeGetStarted = document.querySelector(".relative.bg-blue-600");
+    removeGetStarted.remove(); 
   // 1e. Change the background color of nav bar
      const navColor = document.querySelector(".bg-blue-600");
      const footElement = document.querySelector(".bg-gray-800"); 
